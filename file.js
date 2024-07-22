@@ -2,8 +2,5 @@
 console.log("hello world ");
 console.log("thisis log");
 console.log("hello world ");
-console.log("hello script ");
-
-const hey = () => {
-    alert('hy there')
-}
+console.log("this is js file  ");
+ 
